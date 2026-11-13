@@ -24,7 +24,6 @@ entry.png in the output directory (MAKEFUN_OUTPUT_DIR, defaulting to
 repository, and every run writes identical bytes, because the copy is
 a pure function of the bundled asset. Verified locally: two runs
 write byte-identical output (same sha256 as news.jpg itself).
-Re-authored in-session 13 Nov 2026 for the resubmit run.
 """
 
 import os
